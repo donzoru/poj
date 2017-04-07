@@ -1,4 +1,2 @@
 # poj
-my ACM code
-long long way;
-way = INF;
+POJ problems solutions!
